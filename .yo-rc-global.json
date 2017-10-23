@@ -1,0 +1,10 @@
+{
+  "generator-express:2.15.0": {
+    "promptValues": {
+      "type": "Basic",
+      "viewEngine": "Marko",
+      "cssPreprocessor": "less",
+      "buildTool": "Grunt"
+    }
+  }
+}
